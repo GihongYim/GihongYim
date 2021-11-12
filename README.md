@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GihongYim
 - 👀 I’m interested in DL
-- 🌱 I’m currently learning ML/DL(OCR,Computer vision)
+- 🌱 I’m currently learning ML/DL(OCR,Computer vision) and BE for data engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
