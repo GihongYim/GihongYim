@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GihongYim
-- 👀 I’m interested in ML/DL/Data Engineering(Management) and BE(BackEnd)
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Backend (JS SQL etc...)
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ... ygh0410@naver.com
