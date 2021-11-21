@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Backend (JS SQL etc...)
 - 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me ... ygh0410@naver.com
+- 📫 How to reach me ... ygh0410@naver.com https://www.notion.so/Gihong_Yim-20443f78e85541edba9afdad7857f8f8
 
 <!---
 GihongYim/GihongYim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
