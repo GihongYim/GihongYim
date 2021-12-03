@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GihongYim
 - 👀 I’m interested in Data Engineering,Data science
-- 🌱 I’m currently studying 
+- 🌱 I’m currently studying and looking for a job.
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ... https://www.notion.so/Gihong_Yim-20443f78e85541edba9afdad7857f8f8
 
