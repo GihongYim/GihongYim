@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering,BackEnd Engineer
 - 🌱 I’m currently studying in 42Seoul
 - 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me ... https://www.notion.so/Gihong_Yim-20443f78e85541edba9afdad7857f8f8
+- 📫 How to reach me ... https://velog.io/@ygh0410
 
 <!---
 GihongYim/GihongYim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
