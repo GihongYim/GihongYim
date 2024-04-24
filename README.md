@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GihongYim
 - 🌱 I’m currently studying in 42Seoul
-- 👀 I’m interested in Data Engineering,BackEnd Engineer
+- 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ... https://velog.io/@ygh0410
 
