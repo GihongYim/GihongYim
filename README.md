@@ -2,7 +2,7 @@
 - 🌱 I’m currently studying in 42Seoul
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me ... 
+- 📫 How to reach me ... ygh0410@naver.com
 
 <!---
 GihongYim/GihongYim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
