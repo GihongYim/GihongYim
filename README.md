@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GihongYim
 - 🌱 I’m currently studying in 42Seoul
 - 👀 I’m interested in CV, embedded, C++, Algorithm
-<!---- 💞️ I’m looking to collaborate on ....--->
 - 📫 How to reach me ... ygh0410@naver.com
+<!---- 💞️ I’m looking to collaborate on ....--->
 
 <!---
 GihongYim/GihongYim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
