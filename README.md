@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GihongYim
 - 🌱 I’m currently studying in 42Seoul
-- 👀 I’m interested in C, C++, Algorithm
+- 👀 I’m interested in C, C++, Algorithm, Linux
 - 📫 How to reach me ... ygh0410@naver.com
 <!---- 💞️ I’m looking to collaborate on ....--->
 
