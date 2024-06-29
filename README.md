@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GihongYim)](https://github.com/anuraghazra/github-readme-stats)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ygh0410)](https://solved.ac/ygh0410)
 
-- 42 Outer Project
+- 42 Outer Project  
   Scop : 그래픽 기본 과제 OpenGl사용  
   ft_ls : ls 명령어 구현  
   computor_v1, computor_v2 : 계산기구현 (python) , v1 단순 계산, v2 벡터연산까지  
