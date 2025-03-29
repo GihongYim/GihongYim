@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GihongYim
 - 🌱 I’m currently studying in 42Seoul, working in Rgorithm korea
-- 👀 I’m interested in C, C++,C# Algorithm, Math, 3D mesh handling
+- 👀 I’m interested in C, C++,C# Algorithm, Math, Data Engineering
 - 📫 How to reach me ... ygh0410@naver.com
 <!---- 💞️ I’m looking to collaborate on ....--->
 
